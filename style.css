@@ -1,0 +1,42 @@
+body{
+    background-color: red;
+}
+.ae{
+    background-color: white; 
+    width: 80%;
+}
+.o{
+    word-spacing: 24ch;
+    width: max-content;
+    background-color: black; color: white; 
+}
+.s{
+    word-spacing: 9ch;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    background-color: white;
+}
+.t{
+    text-align: justify;
+    line-height: normal;
+    width: 65%;
+    background-color: white;
+}
+img{
+    width: 650px;
+    
+}
+.e table{
+    width: 100%;
+}
+.e tr{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+}
+.e tr img{
+    width: 210px;
+    height: 220px;
+}
+
+    
